@@ -74,4 +74,5 @@ div.listOfItems .item-container .item-icons button {
     cursor: pointer;
     margin-right: -15px;
     font-size: 25px;
+    border: none !important;
 }
